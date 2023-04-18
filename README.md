@@ -7,18 +7,24 @@ I am Anweshan Roy Chowdhury (@cybrix) a 23 years old Computer Science geek. Curr
 You may have guessed that I enjoy coding. My major areas of interest include artificial intelligence/machine learning & backend developement. Other field of interest include UI/UX development, Full Stack development, DevOps etc.
 
 > 🤖 See my [AI/ML project](https//cybrix.in/mask.html).
+> Want to work with me or hire me? You may want a peek 👁 at my [resume](https://cybrix.in/cv.html) or visit my [LinkedIn](https://linkedin.com/in/cybrixin).
 
 My primary go-to database is any oneof a NoSQL flavour. The horizontal scalabilty amuses me everytime I use them. I primarily use Cloud Firestore by Firebase. However MongoDB on Docker is always a preference. My favourite full stack library is React.js. A framework on a similar note is Next.js. The coolest UI library of my choice is TailwindCSS, but if I am building something quickly, I often fallback to Bootstrap.
 
 > ✨Visit some of my star projects. [Virtual birthday card](https://birthday.cybrix.in/), [2FA TOTP generator](https://totp.cybrix.in/), [Three.js VR Scene](https://cybrix.in/vr/), [SyncSilo](https://cloud.cybrix.in)
 
-My recent contribution both professionally & personally would be a backend API written in Express.js which utilized the power of Firebase Admin SDK to authenticate (with credentials & Google/Facebook/Twitter), storing/reading/modifying/deleting data from cloud firestore & cloud storage, using Razorpay SDK (India)/ Stripe SDK / PayPal SDK to checkout, all for a mobile application built natively on iOS and Android. My contributions in Android version were limited but present, while I being a noob on SwiftUI (iOS).
+My recent contribution both professionally & personally would be a backend API written in Express.js which utilized the power of Firebase Admin SDK to authenticate (with credentials & Google/Facebook/Twitter), storing/reading/modifying/deleting data from Cloud firestore & Cloud storage, using Razorpay SDK (India)/ Stripe SDK / PayPal SDK to checkout, all for a mobile application built natively on iOS and Android. My contributions in Android version were limited but present, while being a noob on SwiftUI (iOS) 😥. Well on the plus side, I know Flutter 😀.
 
-> Want to connect? Drop a message at [hi@cybrix.in](mailto:hi@cybrix.in) or DM on Facebook, Twitter, Instagram, Messenger by Facebook, LinkedIn all under the handle _@cybrixin_.
+Aside from programming, I enjoy playing my synthesizer, listening to music, binge-watching fascinating shows, and eating a lot of excellent (or perhaps amazing) food (very often, without a reason).
+
+### Here are some more insights:
+- 🔭 I’m currently working on a something secret ✨. 
+- 🌱 I’m currently learning **lots of stuff**
+- ⚡ Fun fact: **I memorize really well, reading backwards** 📖.
+
+> Want to contact me? Well you can email me at **hi@cybrix.in** or DM me on [Twitter](https://twitter.com/cybrixin), [Instagram](https://instagram.com/cybrixin) or [Facebook](https://fb.me/cybrixin) or [Messenger](https://m.me/cybrixin).
 
 ## Know more about my role at Pravaah
-
-> You may want to hire me! [Checkout my resume](https://cybrix.in/cv.html)
 
 My current exposure to Pravaah has taught me a lot; Here are some key highlights:
 
@@ -52,3 +58,12 @@ My current exposure to Pravaah has taught me a lot; Here are some key highlights
         <p>Other projects will be listed as soon as the website is released from the non-disclosure & non-compete from the client.</p>
      <ol>
 </details>
+      
+## Contact Me
+
+- [Github](https://github.com/cybrixin)
+- [Twitter](https://twitter.com/cybrixin)
+- [Facebook](https://facebook.com/cybrixin)
+- [Instagram](https://instagram.com/cybrixin)
+- [LinkedIn](https://linkedin.com/in/cybrixin)
+- [Google Developer Profile](https://g.dev/cybrixin)
