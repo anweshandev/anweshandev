@@ -13,7 +13,7 @@ My goto stack would be Firebase on Google Cloud, with React.js (Vite + SWC), and
 
 > ✨Visit some of my star projects. [Virtual birthday card](https://birthday.anweshan.dev/), [2FA TOTP generator](https://totp.anweshan.dev/), [Three.js VR Scene](https://anweshan.dev/vr/), [SyncSilo](https://cloud.anweshan.dev) (may be broken due to domain changes).
 
-Professionally I am included in multiple projects. But my most recent project would be a custom application which creates storybooks using AI. The concept is called [Bookaible](https://try.bookaible.ai).
+Professionally I am included in multiple projects. But my most recent project would be a custom application which creates storybooks using AI. The concept is called [Bookaible](https://bookaible.ai).
 
 > Be advised Bookaible is still under-development. Want to visit my [official profile](https://github.com/arc-prvh)?
 
